@@ -4,4 +4,4 @@ Next.js web app with GitHub authentication using Supabase, PostgreSQL and Tailwi
 #
 Subscribtion functionality with Stripe
 # 
-Deployed at https://messenger-clone-app-pied.vercel.app/ 
+Deployed at https://spotify-clone-app-kappa.vercel.app/ 
